@@ -9,7 +9,7 @@ To get started with this project, first clone the repository
 
 Then install dependencies:
 
-cd nextjs-typescript-template
+cd nextjs-typescript-template    
 
 ```bash
 npm install
