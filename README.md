@@ -16,7 +16,7 @@ npm install
 # or
 yarn install
 ```
-
+ 
 Once the installation is complete, start the development server by running:
 
 ```bash
